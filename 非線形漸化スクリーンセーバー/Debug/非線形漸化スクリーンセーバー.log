@@ -1,0 +1,11 @@
+﻿  Parabola.cpp
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.h(11): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'eMODE' の左辺を無視します。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(29): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(45): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(56): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(112): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(118): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+g:\ドキュメント\visual studio 2017\projects\非線形漸化スクリーンセーバー\非線形漸化スクリーンセーバー\parabola.cpp(120): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  非線形漸化スクリーンセーバー.vcxproj -> g:\ドキュメント\visual studio 2017\Projects\非線形漸化スクリーンセーバー\Debug\非線形漸化スクリーンセーバー.exe
+  非線形漸化スクリーンセーバー.vcxproj -> g:\ドキュメント\visual studio 2017\Projects\非線形漸化スクリーンセーバー\Debug\非線形漸化スクリーンセーバー.pdb (Partial PDB)
